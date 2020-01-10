@@ -1,1 +1,13 @@
-The herbs application
+The Herbs mobile application
+
+This application shows ten herbs description, harvesting, and use.
+
+
+The application is created of a widget tree, herb model, services and JSON file: 
+
+ A Widget tree:
+ Herb model is the class that is a blueprint of herb (id, name, description,
+ harvesting, use, imageUrl).
+ Services take values from JSON file and map it into a list.
+ JSON is a text file where keys and values of herbs are provided. 
+ 

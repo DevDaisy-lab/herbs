@@ -33,7 +33,7 @@ class _HerbListState extends State<HerbList> {
     Herb herb = _herbs[index];
 
     return Container(
-    margin: EdgeInsets.all(8),
+      margin: EdgeInsets.all(8),
       child: Column(
         children: [
           Card(
@@ -41,7 +41,7 @@ class _HerbListState extends State<HerbList> {
                 RoundedRectangleBorder(borderRadius: BorderRadius.circular(80)),
             elevation: 5,
             child: Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
+              crossAxisAlignment: CrossAxisAlignment.center,
               children: <Widget>[
                 Row(
                   children: [

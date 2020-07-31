@@ -1,16 +1,16 @@
 
-**The Herbs mobile application**
+**The Herbs Mobile Application**
 
-This application shows ten herbs description, harvesting, and use.
+This application shows the description, the harvesting, and the use of ten herbs.
  
-The application is created of **a widget tree**, **herb model**, **services** and **JSON** file: 
+The application is created of **a widget tree**, **a object model**, **services** and **JSON** file: 
 
 - **A Widget tree:**
 
 
 ![](https://github.com/Laura555-p/herbs/blob/master/assets/images/herbswidgettree.PNG)
 
-- **Herb model** is the class that is a blueprint of herb (**id**, **name**, **description**, **harvesting**, **use**, **imageUrl**).
+- **The object model** is the class that is a blueprint of herb (**id**, **name**, **description**, **harvesting**, **use**, **imageUrl**).
 - **Services** take values from **JSON** file and map it into a list.
 - **JSON** is a text file where **keys** and **values** of herbs are provided. 
 

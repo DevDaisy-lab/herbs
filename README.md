@@ -3,7 +3,7 @@
 
 This application shows **the description**, **the harvesting**, and **the use** of the ten herbs.
  
-The application is created of **a widget tree**, **a object model**, **services** and **JSON** file: 
+The application is created of **a widget tree**, **a object model**, **the services** and **JSON** file: 
 
 - **A Widget tree:**
 

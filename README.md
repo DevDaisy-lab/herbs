@@ -1,7 +1,7 @@
 
 **The Herbs Mobile Application**
 
-This application shows the description, the harvesting, and the use of ten herbs.
+This application shows **the description**, **the harvesting**, and **the use** of ten herbs.
  
 The application is created of **a widget tree**, **a object model**, **services** and **JSON** file: 
 
